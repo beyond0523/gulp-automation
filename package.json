@@ -1,0 +1,16 @@
+{
+  "name": "gulp-automation",
+  "version": "1.0.0",
+  "description": "gulp automation construction",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gulp",
+    "automation",
+    "construction"
+  ],
+  "author": "huangchaowei",
+  "license": "ISC"
+}
